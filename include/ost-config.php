@@ -41,7 +41,7 @@ define('ADMIN_EMAIL','demouser@opsgility.com');
 define('DBTYPE','mysql');
 define('DBHOST','waws-prod-ps1-003.ftp.azurewebsites.windows.net');
 define('DBNAME','osticket');
-define('DBUSER','user20osTicketsystem\$user20osTicketsystem');
+define('DBUSER','demouser@user20osticketsrv01');
 define('DBPASS','demo@pass123');
 
 # Table prefix
